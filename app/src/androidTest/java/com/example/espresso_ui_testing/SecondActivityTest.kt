@@ -18,7 +18,6 @@ class SecondActivityTest {
 
     @Test
     fun test_isActivityInView() {
-
         onView(withId(R.id.secondActivity))
             .check(matches(isDisplayed()))
     }

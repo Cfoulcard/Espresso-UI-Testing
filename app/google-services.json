@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "867079793776",
+    "project_id": "espresso-test-ee532",
+    "storage_bucket": "espresso-test-ee532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867079793776:android:edfc5df601949f836b98b5",
+        "android_client_info": {
+          "package_name": "com.example.espresso_ui_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867079793776-oupmtj8mhhbor6esglectdulmjf5bkgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVO9HSiR0y8n2h4HuCcJXzicxmeUCzB_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867079793776-oupmtj8mhhbor6esglectdulmjf5bkgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867079793776:android:1faef954ae0e52296b98b5",
+        "android_client_info": {
+          "package_name": "com.example.expresso_ui_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867079793776-oupmtj8mhhbor6esglectdulmjf5bkgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVO9HSiR0y8n2h4HuCcJXzicxmeUCzB_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867079793776-oupmtj8mhhbor6esglectdulmjf5bkgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
