@@ -4,4 +4,7 @@
     <string name="espresso_espresso_espresso">Espresso Espresso Espresso</string>
     <string name="yes">Yes</string>
     <string name="your_trip_includes_free_coffee_would_you_like_to_experience_this_again">Your trip includes free coffee, would you like to experience this again?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_button">Fragment Button</string>
 </resources>

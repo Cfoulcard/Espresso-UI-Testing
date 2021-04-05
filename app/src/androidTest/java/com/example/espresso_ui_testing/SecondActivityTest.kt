@@ -13,6 +13,8 @@ import org.junit.runner.RunWith
 @RunWith(AndroidJUnit4ClassRunner::class)
 class SecondActivityTest {
 
+    // Normally you have to define the class inside a test. Rule reduces boilerplate by allowing
+    // you to have the variable you set globally available to your tests
     @get: Rule
     val activityRule = ActivityScenarioRule(SecondActivity::class.java)
 
