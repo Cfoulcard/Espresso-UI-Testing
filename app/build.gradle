@@ -41,6 +41,7 @@ android {
         androidTest.java.srcDirs += "src/test-common/java"
         test.java.srcDirs += "src/test-common/java"
     }
+
 }
 
 dependencies {

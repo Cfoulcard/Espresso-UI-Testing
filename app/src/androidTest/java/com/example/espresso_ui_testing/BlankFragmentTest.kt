@@ -10,7 +10,7 @@ import org.junit.Test
 class BlankFragmentTest {
 
     @get: Rule
-    val activityRule = ActivityScenarioRule(MainActivity::class.java)
+    val activityRule = ActivityScenarioRule(NotesListActivity::class.java)
 
     @Test
     fun test_isActivityInView() {
